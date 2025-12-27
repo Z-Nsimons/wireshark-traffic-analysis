@@ -30,3 +30,18 @@ Identified packets with unusually high delta times, which may indicate latency, 
 
 ## Screenshots
 Screenshots of the captures and filtered traffic are included in the '/screenshots' directory.
+
+### Baseline Traffic Capture
+![Baseline Traffic](screenshots/baseline_capture.png)
+
+### DNS Traffic Capture
+![DNS Traffic](screenshots/dns_traffic.png)
+
+### TLS Encrypted Traffic Capture
+![TLS Traffic](screenshots/encrypted_traffic.png)
+
+### TCP Traffic Capture
+![TCP Traffic](screenshots/tcp_handshake.png)
+
+### Delta Time Analysis Observation Capture
+![Delta Time Observation](screenshots/observation.png)
